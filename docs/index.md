@@ -1,17 +1,19 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
+title: "India in the 1st person"
+author: "Carlos Alcala a.k.a. Carlito Fluito"
+date: "2019-07-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: carlitofluito/india1person
+description: "This are my chronicles of my pseudo-solo travel around India during the summer of 2016."
 ---
 
 # Preface {-}
 
-This is the very first part of the book.
+
+- Do you think that you are ready to go to India?
+
+- I don't know. I am going in there to figure it out.
